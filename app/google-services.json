@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438852453859",
+    "firebase_url": "https://wwtproject-b410e.firebaseio.com",
+    "project_id": "wwtproject-b410e",
+    "storage_bucket": "wwtproject-b410e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438852453859:android:bc5a9dbfd3e3f65df60cd6",
+        "android_client_info": {
+          "package_name": "com.maid.wwt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438852453859-d56d72s6l3k2ff2h5jj0m7gv1djkho29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8FHa8BfnxNHJSxPgovypky6N6ZjVGqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438852453859-d56d72s6l3k2ff2h5jj0m7gv1djkho29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
